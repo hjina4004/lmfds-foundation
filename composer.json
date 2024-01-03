@@ -1,0 +1,11 @@
+{
+    "name": "lmfriends/lmfds-foundation",
+    "description": "LMFDS foundation class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lmfriends\\LmfdsFoundation\\": "src/"
+        }
+    },
+    "require": {}
+}

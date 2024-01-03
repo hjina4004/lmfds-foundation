@@ -1,0 +1,12 @@
+/vendor
+/logs
+/test/logs
+
+.env
+.env.backup
+.env.server
+
+.DS_Store
+.vscode
+
+dev.txt
